@@ -25,6 +25,9 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 * Created a summary statistics table with mean, median, minimum, maximum, standard deviation, and variance. 
 ![Image of statisticis table](https://github.com/poojanagrecha/excel-challenge/blob/main/Images/Screen%20Shot%202020-11-09%20at%207.31.25%20PM.png)
+
+
+* Analyzed data based on goal funding to demonstrate successful and failed campaigns. 
 ![Image of statisticis table](https://github.com/poojanagrecha/excel-challenge/blob/main/Images/Screen%20Shot%202020-11-09%20at%207.31.33%20PM.png)
 
 
