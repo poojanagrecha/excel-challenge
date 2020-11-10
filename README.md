@@ -1,5 +1,6 @@
 # Excel-Challenge
 Organization and analysis of Kickstarter campaigns to uncover any hidden trends using Excel.
+<b> KickStarter Campaign Results Report: </b> https://github.com/poojanagrecha/excel-challenge/blob/main/Solutions/Report.docx
 # Background
 Over $2 billion has been raised using the massively successful crowdfunding service, Kickstarter, but not every project has found success. Of the more than 300,000 projects launched on Kickstarter, only a third have made it through the funding process with a positive outcome.
 
